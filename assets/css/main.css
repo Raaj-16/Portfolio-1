@@ -868,7 +868,7 @@ section,
   transition: 0.3s;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   position: relative;
-  border-radius:8px ;
+  border-radius:8px;
 }
 
 .interests .features-item i {
