@@ -576,7 +576,7 @@ h6 {
 }
 
 .page-title .heading {
-  padding: 160px 0 20px 0;
+  padding: 150px 0 0px 0;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
@@ -990,8 +990,6 @@ section,
   color: var(--heading-color);
   font-size: 26px;
   font-weight: 700;
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .resume .resume-item {
@@ -1019,7 +1017,7 @@ section,
 }
 
 .resume .resume-item ul {
-  padding-left: 20px;
+  /* padding-left: 20px; */
 }
 
 .resume .resume-item ul li {
