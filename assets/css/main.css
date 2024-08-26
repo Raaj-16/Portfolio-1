@@ -616,7 +616,7 @@ h6 {
 section,
 .section {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-image:url("bg.jpg") ;
   padding: 60px 0;
   scroll-margin-top: 100px;
   overflow: clip;
